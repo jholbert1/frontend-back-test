@@ -2,34 +2,19 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Pasos a seguir para la instalación:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### 1. Clonar el repositorio
 
-## Customize configuration
+### 2. Instalar las dependencias npm install
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### 3. Correr el servidor npm run dev
 
-## Project Setup
+- **Entorno:** NODE (v18.16.0) y NPM (9.5.1)
+- **Framework:** Vue.js V.3.0
 
-```sh
-npm install
-```
+---
 
-### Compile and Hot-Reload for Development
+Por favor, asegúrate de tener las versiones correctas de NODE y NPM instaladas antes de proceder.
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- **NOTA IMPORTANTE:** El backend debe correr en el puerto 3000 "http://localhost:3000"
